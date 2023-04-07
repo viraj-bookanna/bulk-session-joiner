@@ -1,0 +1,4 @@
+asyncio
+pymongo[srv]
+telethon
+python-dotenv

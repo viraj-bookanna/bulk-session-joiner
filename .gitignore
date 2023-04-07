@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# joined and non joined sessions
+sessions
+sessions-joined
